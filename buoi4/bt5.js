@@ -2,7 +2,7 @@
 //     let b = a.toString();
 //     console.log(b.reverse());
 // }
-// so(123);
+// so('123');
 function so(s){
     let s2 = s.toString();
     let x = '';
@@ -13,4 +13,4 @@ function so(s){
     console.log(x);
 
 }
-so(123);
+so('nguyen thanh dat');

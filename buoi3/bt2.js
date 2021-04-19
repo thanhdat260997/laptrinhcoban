@@ -17,4 +17,4 @@ function nguyenTo(x){
     }
     return true;
 }
-console.log(nguyenTo(5));
+console.log(nguyenTo(6));
